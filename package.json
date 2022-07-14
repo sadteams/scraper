@@ -9,7 +9,9 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "from-data": "^4.0.0",
+    "node-fetch": "^2.6.7"
   },
   "keywords": [
     "api",
