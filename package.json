@@ -1,0 +1,28 @@
+{
+  "name": "scraper",
+  "version": "1.0.2",
+  "description": "idk",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "api",
+    "scarper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadteams/scraper.git"
+  },
+  "author": "Kangsad01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sadteams/scraper/issues"
+  },
+  "homepage": "https://github.com/sadteams/scraper#readme"
+}
